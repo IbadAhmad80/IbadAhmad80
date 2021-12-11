@@ -38,9 +38,6 @@
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" width="500" height="320" />
 
 
-<br />
-<br />
-
 #### Talking about me:
 
 - 🙋‍♂️ Software Developer at EuphoriaXR
