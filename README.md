@@ -35,7 +35,7 @@
 
 ### A Future CS graduate & Developer  
 
-<img align="right" alt="GIF" src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="480" height="270" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" width="450" height="270" />
 
 
 #### Talking about me:
