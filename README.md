@@ -34,7 +34,7 @@
 
 <br>
 
-### A Future CS graduate, Developer & Freelancer
+### A Future CS graduate & Developer  
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="500" height="320" />
 
