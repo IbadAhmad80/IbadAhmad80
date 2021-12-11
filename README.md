@@ -35,7 +35,7 @@
 
 ### A Future CS graduate & Developer  
 
-<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="480" height="270" />
+<img align="right" alt="GIF" src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="480" height="270" />
 
 
 #### Talking about me:
