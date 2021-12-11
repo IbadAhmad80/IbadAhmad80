@@ -57,7 +57,7 @@
 <br>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
 <div align="center">
-    <img src="https://img.shields.io/badge/React.js-#5ED3F3?style=for-the-badge&logo=reactdotjs&logoColor=blue" />
+    <img src="https://img.shields.io/badge/React.js-5ED3F3?style=for-the-badge&logo=reactdotjs&logoColor=blue" />
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
