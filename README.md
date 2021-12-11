@@ -5,7 +5,7 @@
 
 -->
 ### Hey there, I'm  Ibad Ahmad
-<p>Average MERN Stack Developer with several Projects under the belt.</p>
+<p>Passionate MERN Stack Developer with several Projects under the belt.</p>
 
 
 <div align="center">
