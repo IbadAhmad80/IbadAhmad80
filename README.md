@@ -76,5 +76,5 @@
 <br><br>
 Open Source Contributor from <b>Pakistan<b> 💚
     <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=IbadAhmad80)
-<br>
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=IbadAhmad80)
+<br> -->
