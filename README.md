@@ -22,7 +22,7 @@
 </a>
   
   <a href="https://stackoverflow.com/users/story/14998000?view=Timeline">
-     <img width="32" height="32" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" />
+     <img width="34" height="40" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" />
 </a>
     
 <a href="https://api.whatsapp.com/send?phone=923032172369">
@@ -57,7 +57,7 @@
 <br>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
 <div align="center">
-    <img src="https://img.shields.io/badge/React.js-FFD43B?style=for-the-badge&logo=reactdotjs&logoColor=darkgreen" />
+    <img src="https://img.shields.io/badge/React.js-#5ED3F3?style=for-the-badge&logo=reactdotjs&logoColor=blue" />
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
