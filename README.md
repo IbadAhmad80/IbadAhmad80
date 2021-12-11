@@ -35,7 +35,7 @@
 
 ### A Future CS graduate & Developer  
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" width="450" height="270" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" width="500" height="300" />
 
 <!-- https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif -->
 
