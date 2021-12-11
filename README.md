@@ -22,7 +22,7 @@
 </a>
   
   <a href="https://stackoverflow.com/users/story/14998000?view=Timeline">
-     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
+     <img width="32" height="32" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" />
 </a>
     
 <a href="https://api.whatsapp.com/send?phone=923032172369">
@@ -76,5 +76,5 @@
 <br><br>
 Open Source Contributor from <b>Pakistan<b> 💚
     <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=evilgenius786.evilgenius786)
+![](https://visitor-badge.glitch.me/badge?page_id=IbadAhmad80)
 <br>
