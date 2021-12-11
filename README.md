@@ -35,7 +35,7 @@
 
 ### A Future CS graduate & Developer  
 
-<img align="right" alt="GIF" src="http://infinitovfx.com/images/2d-animation.gif" width="450" height="420" />
+<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="500" height="450" />
 
 
 #### Talking about me:
