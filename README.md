@@ -37,7 +37,7 @@
 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" width="500" height="320" />
 
-#### Talking about ME:
+#### Talking about me:
 
 - 🙋‍♂️ Software Developer at EuphoriaXR
 - ⚡  MERN Stack Developer
@@ -64,8 +64,6 @@
 
 <br />
 <br />
-<br />
-
 
 ### My skills 🛠
 👉 ReactJS<br>
