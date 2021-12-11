@@ -22,7 +22,7 @@
 </a>
   
   <a href="https://stackoverflow.com/users/story/14998000?view=Timeline">
-     <img width="34" height="40" src="http://infinitovfx.com/images/2d-animation.gif" />
+     <img width="34" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
     
 <a href="https://api.whatsapp.com/send?phone=923032172369">
@@ -35,7 +35,7 @@
 
 ### A Future CS graduate & Developer  
 
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="http://infinitovfx.com/images/2d-animation.gif" width="500" height="320" />
 
 
 #### Talking about me:
