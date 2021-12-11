@@ -36,7 +36,7 @@
 
 ### A Future CS graduate & Developer  
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" width="500" height="320" />
 
 #### Talking about ME:
 
