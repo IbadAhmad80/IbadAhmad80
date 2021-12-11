@@ -36,7 +36,7 @@
 
 ### A Future CS graduate & Developer  
 
-<img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/70998147/145670686-bcd6224d-3cd4-411a-bd49-bd31e071936a.png)" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/70998147/145670686-bcd6224d-3cd4-411a-bd49-bd31e071936a.png" width="500" height="320" />
 
 #### Talking about ME:
 
