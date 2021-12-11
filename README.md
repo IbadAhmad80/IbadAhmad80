@@ -35,7 +35,7 @@
 
 ### A Future CS graduate & Developer  
 
-<img align="right" alt="GIF" src="http://infinitovfx.com/images/2d-animation.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="http://infinitovfx.com/images/2d-animation.gif" width="450" height="420" />
 
 
 #### Talking about me:
