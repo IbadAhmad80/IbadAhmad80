@@ -28,8 +28,7 @@
 <a href="https://api.whatsapp.com/send?phone=923032172369">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
-
-
+    
 </div>
 
 <br>
@@ -43,7 +42,7 @@
 - 🙋‍♂️ Software Developer at EuphoriaXR
 - ⚡  MERN Stack Developer
 
-
+<t />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -63,7 +62,6 @@
 - 📑 Future CS Graduate from Comsats University, Islamabad.
 
 
-<br />
 <br />
 <br />
 <br />
