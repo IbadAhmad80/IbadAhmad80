@@ -39,6 +39,9 @@
 
 #### Talking about me:
 
+<br />
+<br />
+
 - 🙋‍♂️ Software Developer at EuphoriaXR
 - ⚡  MERN Stack Developer
 
