@@ -63,7 +63,7 @@
 <br />
 
 - 💻 Instrested in WEB 3.0
-- 📑 Future CS Graduate from Comsats University, Islamabad.
+- 📑 CS Graduate from Comsats University, Islamabad.
 
 
 <br />
