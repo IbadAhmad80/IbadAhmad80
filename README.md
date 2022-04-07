@@ -33,7 +33,7 @@
 
 <br>
 
-### A Future CS graduate & Developer  
+### A CS graduate & Developer  
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" width="500" height="300" />
 
