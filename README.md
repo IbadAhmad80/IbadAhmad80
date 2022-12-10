@@ -5,7 +5,7 @@
 
 -->
 ### Hey there, I'm  Ibad Ahmad
-<p>Passionate MERN Stack Developer with several Projects under the belt.</p>
+<p>Passionate Full Stack Stack Developer with several Projects under the belt.</p>
 
 
 <div align="center">
@@ -43,8 +43,8 @@
 
 #### Talking about me:
 
-- 🙋‍♂️ Software Developer at EuphoriaXR
-- ⚡  MERN Stack Developer
+- 🙋‍♂️ Software Engineer at EuphoriaXR
+- ⚡  Full Stack Developer | MERN | ROR
 
 <t />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -72,11 +72,12 @@
 ### My skills 🛠
 👉 ReactJS<br>
 👉 NodeJS / Express JS<br>
-👉 Playing with UI Libraries<br>
+👉 ROR<br>
 👉 HTML/CSS<br>
 👉 NextJS<br>
 👉 GraphQL<br>
 👉 Typescript<br>
+
 
 <br>
 <div align="center">
