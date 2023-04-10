@@ -13,9 +13,9 @@
 
 
 
-<a href="https://www.linkedin.com/in/ibad-ahmad">
+<!-- <a href="https://www.linkedin.com/in/ibad-ahmad">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-</a>
+</a> -->
 
 <a href="mailto:ibad23ahmad@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
@@ -25,9 +25,9 @@
      <img width="34" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
     
-<a href="https://api.whatsapp.com/send?phone=923032172369">
+<!-- <a href="https://api.whatsapp.com/send?phone=923032172369">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
-</a>
+</a> -->
     
 </div>
 
