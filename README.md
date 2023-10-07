@@ -4,7 +4,7 @@
 **IbadAhmad80/IbadAhmad80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-### Hey there, I'm  Ibad Ahmad
+### I'm  Ibad Ahmad
 <p>Passionate Full Stack Stack Developer with several Projects under the belt.</p>
 
 
