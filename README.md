@@ -42,7 +42,7 @@
 
 #### Talking about me:
 
-- 🙋‍♂️ Software Engineer at EuphoriaXR
+- 🙋‍♂️ Senior Software Engineer
 - ⚡  Full Stack Developer | MERN | ROR
 
 <t />
@@ -63,7 +63,7 @@
 <br />
 <br />
 
-- 💻 Instrested in WEB 3.0
+- 💻 Instrested in Devops and WEB 3.0
 - 📑 CS Graduate from Comsats University, Islamabad.
 
 
