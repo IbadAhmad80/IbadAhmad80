@@ -4,13 +4,13 @@
 **IbadAhmad80/IbadAhmad80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-### I'm  Ibad Ahmad
-<p>Passionate Senior Full Stack Stack Developer with several Projects under my belt.</p>
 
+### I'm Ibad Ahmad
+
+<p>Passionate Senior Full Stack Stack Developer with several Projects under my belt.</p>
 
 <div align="center">
 <p align="center">Let's connect!</p>
-
 
 <a href="https://www.linkedin.com/in/ibad-ahmad">
     <img width="32" height="32" src="http://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
@@ -32,22 +32,24 @@
 
 <br>
 
-### A CS graduate & Developer  
+### A CS graduate & Developer
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" width="500" height="300" />
 
 <!-- https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif -->
 
-
-
 #### Talking about me:
 
 - 🙋‍♂️ Senior Software Engineer
-- ⚡  Full Stack Developer | MERN | ROR
+- ⚡ Full Stack Developer | MERN | ROR
 - 💻 Interested in AI / DevOps and WEB3
 - 📑 CS Graduate from COMSATS University, Islamabad.
 
- <t />
+<t />
+
+<br/>
+<br />
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -65,11 +67,11 @@
 <br />
 <br />
 
-
 <br />
 <br />
 
-### My skills 🛠
+### My skills 🛠\*\*\*\*
+
 👉 ReactJS<br>
 👉 NodeJS / Express JS<be>
 👉 NestJS<br>
@@ -80,9 +82,6 @@
 👉 Typescript<be>
 👉 Docker / Microservices Architecture<br>
 👉 AWS
-
-
-
 
 <br>
 <div align="center">
@@ -97,4 +96,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IbadAhmad80&theme=dark&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=IbadAhmad80&icon=0&color=0)](https://visitcount.itsvg.in)
-
