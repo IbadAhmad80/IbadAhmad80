@@ -66,12 +66,6 @@
 <br />
 <br />
 
-<br />
-<br />
-
-<br />
-<br />
-
 ### My skills 🛠\*\*\*\*
 
 👉 ReactJS<br>
