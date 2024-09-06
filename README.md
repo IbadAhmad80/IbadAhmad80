@@ -20,7 +20,7 @@
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
   
-<a href="https://stackoverflow.com/users/story/14998000?view=Timeline">
+  <a href="https://stackoverflow.com/users/story/14998000?view=Timeline">
      <img width="34" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
     
@@ -45,7 +45,9 @@
 - 💻 Interested in AI / DevOps and WEB3
 - 📑 CS Graduate from COMSATS University, Islamabad.
 
-<br />
+<t />
+
+<br/>
 <br />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -85,7 +87,9 @@
 <br />
 
 <div align="center">
+    
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+    
 </div>
 
 <br>
