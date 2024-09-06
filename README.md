@@ -20,7 +20,7 @@
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
   
-  <a href="https://stackoverflow.com/users/story/14998000?view=Timeline">
+<a href="https://stackoverflow.com/users/story/14998000?view=Timeline">
      <img width="34" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
     
@@ -44,8 +44,6 @@
 - ⚡ Full Stack Developer | MERN | ROR
 - 💻 Interested in AI / DevOps and WEB3
 - 📑 CS Graduate from COMSATS University, Islamabad.
-
-<t />
 
 <br/>
 <br />
