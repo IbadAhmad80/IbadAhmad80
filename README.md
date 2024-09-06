@@ -5,7 +5,7 @@
 
 -->
 ### I'm  Ibad Ahmad
-<p>Passionate Full Stack Stack Developer with several Projects under the belt.</p>
+<p>Passionate Senior Full Stack Stack Developer with several Projects under my belt.</p>
 
 
 <div align="center">
@@ -63,8 +63,8 @@
 <br />
 <br />
 
-- 💻 Instrested in Devops and WEB 3.0
-- 📑 CS Graduate from Comsats University, Islamabad.
+- 💻 Interested in AI / DevOps and WEB3
+- 📑 CS Graduate from COMSATS University, Islamabad.
 
 
 <br />
@@ -72,12 +72,17 @@
 
 ### My skills 🛠
 👉 ReactJS<br>
-👉 NodeJS / Express JS<br>
+👉 NodeJS / Express JS<be>
+👉 NestJS<br>
 👉 ROR<br>
 👉 HTML/CSS<br>
 👉 NextJS<br>
 👉 GraphQL<br>
-👉 Typescript<br>
+👉 Typescript<be>
+👉 Docker / Microservices Architecture<br>
+👉 AWS
+
+
 
 
 <br>
