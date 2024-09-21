@@ -64,7 +64,7 @@
 <br />
 <br />
 
-### My skills 🛠\*\*\*\*
+### My skills 🛠
 
 👉 ReactJS<br>
 👉 NodeJS / Express JS<be>
