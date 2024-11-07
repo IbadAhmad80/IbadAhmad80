@@ -73,7 +73,7 @@
 👉 HTML/CSS<br>
 👉 NextJS<br>
 👉 GraphQL<br>
-👉 Typescript<be>
+👉 Typescript<br>
 👉 Docker / Microservices Architecture<br>
 👉 AWS
 
