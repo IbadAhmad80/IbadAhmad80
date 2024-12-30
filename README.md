@@ -67,7 +67,7 @@
 ### My skills 🛠
 
 👉 ReactJS<br>
-👉 NodeJS / Express JS<be>
+👉 NodeJS / Express JS<br>
 👉 NestJS<br>
 👉 ROR<br>
 👉 HTML/CSS<br>
